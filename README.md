@@ -1,4 +1,4 @@
-#Description of project
+# Description of project
 This project is demo of adding, editing, deleting, sorting, pagination, global filtering and individual columns filtering using angular material UI
 
 # AngularDemo
