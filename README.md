@@ -1,3 +1,6 @@
+#Description of project
+This project is demo of adding, editing, deleting, sorting, pagination, global filtering and individual columns filtering using angular material UI
+
 # AngularDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
